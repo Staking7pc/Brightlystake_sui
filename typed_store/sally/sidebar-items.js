@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SallyColumn","SallyColumnOptions","SallyDBOptions","SallyIter","SallyKeys","SallyReadOnlyDBOptions","SallyRunMode","SallyValues","SallyWriteBatch"],"fn":["default_column_options"],"struct":["SallyConfig","SallyDBConfigMap"]};
